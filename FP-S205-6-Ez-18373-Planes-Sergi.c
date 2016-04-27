@@ -1,8 +1,8 @@
 /* 
  * Grup de Seminari: S205
  * Professor seminari: Dolors Sala
- * Nom Fitxer: FP-Sxxx-Sy-Ez-NIA-Cognom-Nom.c
- * Seminari: 6-fitxers / 7-cerca-ord / 8-recursivitat / 9-memoria-avançada
+ * Nom Fitxer: FP-S205-6-Ez-18373-Planes-Sergi.c
+ * Seminari: 6
  * Incidències:
  * 
  * Autor (Nom i NIA): Sergi Planes 183713
